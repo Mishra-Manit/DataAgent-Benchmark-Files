@@ -1,0 +1,51 @@
+Artwork ID,Artwork Name,Artist,Year,Medium,Genre,Exhibition,Price,Rating,Visitors
+1,Sunflowers,Vincent van Gogh,1888,Oil on Canvas,Impressionism,Yes,5000,4.5,2000
+2,,Leonardo da Vinci,1503-1506,Painting,Renaissance,No,10000,4.8,
+3,The Starry Night,Vincent van Gogh,1889,Oil on Canvas,Post-Impressionism,Yes,8000,4.2,2500
+4,Guernica,Pablo Picasso,1937,,Cubism,Yes,,4.0,1800
+5,,Salvador Dalí,1931,,Surrealism,Yes,6000,,2200
+6,The Last Supper,Leonardo da Vinci,1495-1498,Fresco,Renaissance,Yes,12000,4.9,3200
+7,Starry Night Over the Rhône,Vincent van Gogh,,Oil on Canvas,Post-Impressionism,Yes,6500,,2100
+8,The Scream,Edvard Munch,1893,,Expressionism,Yes,5500,4.1,1900
+9,Les Demoiselles d'Avignon,Pablo Picasso,1907,Oil on Canvas,Cubism,Yes,7500,,2300
+10,Nighthawks,Edward Hopper,,Oil on Canvas,Realism,Yes,6200,4.2,2050
+11,Girl with a Pearl Earring,Johannes Vermeer,1665,Oil on Canvas,Baroque,Yes,7800,4.7,2700
+12,American Gothic,Grant Wood,1930,,Regionalism,Yes,6800,,2400
+13,,Sandro Botticelli,1484-1486,Tempera on Canvas,Early Renaissance,No,9800,4.8,
+14,Water Lilies,Claude Monet,1916,,Impressionism,Yes,5200,,1800
+15,The Kiss,Gustav Klimt,1907-1908,Oil and Gold Leaf on Canvas,Symbolism,Yes,7200,4.5,2300
+16,The Night Watch,Rembrandt van Rijn,1642,Oil on Canvas,Baroque,Yes,5800,4.2,
+17,The Great Wave off Kanagawa,Katsushika Hokusai,1830-1833,Woodblock Print,Ukiyo-e,Yes,5000,4.0,1750
+18,,Unknown,100 BCE,Marble,Classical,No,,4.7,3000
+19,Les Tournesols,Claude Monet,,Oil on Canvas,Impressionism,Yes,,4.1,1900
+20,Liberty Leading the People,Eugène Delacroix,1830,Oil on Canvas,Romanticism,Yes,,4.3,2400
+21,,Salvador Dalí,1924,,Surrealism,Yes,5900,,2300
+22,,Leonardo da Vinci,1495,Sketch,Renaissance,Yes,11000,,3600
+23,Starry Night Over the Rhône,Vincent van Gogh,1888,Oil on Canvas,Post-Impressionism,Yes,6800,4.1,2400
+24,Guernica,Pablo Picasso,1937,Oil on Canvas,Cubism,Yes,7200,4.6,2600
+25,Les Demoiselles d'Avignon,Pablo Picasso,1907,Oil on Canvas,Cubism,Yes,,4.5,2100
+26,Nighthawks,Edward Hopper,1942,Oil on Canvas,Realism,Yes,6500,4.0,2000
+27,,Unknown,100 CE,Stone Sculpture,Classical,Yes,9200,,3100
+28,Water Lilies,Claude Monet,1916,Oil on Canvas,Impressionism,Yes,,4.3,2500
+29,The Kiss,Gustav Klimt,,Oil and Gold Leaf on Canvas,Symbolism,Yes,7800,4.7,2700
+30,The Night Watch,Rembrandt van Rijn,1642,Oil on Canvas,Baroque,Yes,5700,4.2,2000
+31,The Great Wave off Kanagawa,Katsushika Hokusai,1830-1833,Woodblock Print,Ukiyo-e,Yes,5000,4.0,1750
+32,,Unknown,100 BCE,Marble,Classical,No,,4.7,3000
+33,Les Tournesols,Claude Monet,,Oil on Canvas,Impressionism,Yes,,4.1,1900
+34,Liberty Leading the People,Eugène Delacroix,1830,Oil on Canvas,Romanticism,Yes,,4.3,2400
+35,,Salvador Dalí,1924,,Surrealism,Yes,5900,,2300
+36,,Leonardo da Vinci,1495,Sketch,Renaissance,Yes,11000,,3600
+37,Starry Night Over the Rhône,Vincent van Gogh,1888,Oil on Canvas,Post-Impressionism,Yes,6800,4.1,2400
+38,Guernica,Pablo Picasso,1937,Oil on Canvas,Cubism,Yes,7200,4.6,2600
+39,Les Demoiselles d'Avignon,Pablo Picasso,1907,Oil on Canvas,Cubism,Yes,,4.5,2100
+40,Nighthawks,Edward Hopper,1942,Oil on Canvas,Realism,Yes,6500,4.0,2000
+41,,Unknown,100 CE,Stone Sculpture,Classical,Yes,9200,,3100
+42,Water Lilies,Claude Monet,1916,Oil on Canvas,Impressionism,Yes,,4.3,2500
+43,The Kiss,Gustav Klimt,,Oil and Gold Leaf on Canvas,Symbolism,Yes,7800,4.7,2700
+44,The Night Watch,Rembrandt van Rijn,1642,Oil on Canvas,Baroque,Yes,5700,4.2,2000
+45,The Great Wave off Kanagawa,Katsushika Hokusai,1830-1833,Woodblock Print,Ukiyo-e,Yes,5000,4.0,1750
+46,,Unknown,100 BCE,Marble,Classical,No,,4.7,3000
+47,Les Tournesols,Claude Monet,,Oil on Canvas,Impressionism,Yes,,4.1,1900
+48,Liberty Leading the People,Eugène Delacroix,1830,Oil on Canvas,Romanticism,Yes,,4.3,2400
+49,,Salvador Dalí,1924,,Surrealism,Yes,5900,,2300
+50,,Leonardo da Vinci,1495,Sketch,Renaissance,Yes,11000,,3600

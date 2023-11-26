@@ -1,0 +1,151 @@
+﻿Movie,Release Year,Rotten Tomato Rating,Audience Rating,Length in Time,Age Rating,Genre,Director,Part of Series
+The Shawshank Redemption,1994,91,90,142,R,Drama,Frank Darabont,No
+The Godfather,1972,98,98,175,R,Crime,Francis Ford Coppola,Yes
+Pulp Fiction,1994,92,94,154,R,Crime,Quentin Tarantino,No
+The Dark Knight,2008,94,94,152,PG-13,Action,Christopher Nolan,Yes
+Schindler's List,1993,97,97,195,R,Biography,Steven Spielberg,No
+The Lord of the Rings: The Return of the King,2003,93,86,201,PG-13,Adventure,Peter Jackson,Yes
+Forrest Gump,1994,72,95,142,PG-13,Drama,Robert Zemeckis,No
+Inception,2010,87,91,148,PG-13,Action,Christopher Nolan,No
+Fight Club,1999,79,96,139,R,Drama,David Fincher,No
+The Matrix,1999,88,85,136,R,Action,The Wachowskis,Yes
+The Silence of the Lambs,1991,94,95,118,R,Crime,Jonathan Demme,Yes
+Gladiator,2000,77,87,155,R,Action,Ridley Scott,No
+Goodfellas,1990,96,96,146,R,Biography,Martin Scorsese,No
+Saving Private Ryan,1998,93,91,169,R,Drama,Steven Spielberg,No
+Spirited Away,2001,97,96,125,PG,Animation,Hayao Miyazaki,No
+Se7en,1995,81,95,127,R,Crime,David Fincher,No
+Joker,2019,68,88,122,R,Crime,Todd Phillips,No
+Once Upon a Time in Hollywood,2019,85,70,161,R,Comedy,Quentin Tarantino,No
+Avengers: Endgame,2019,94,90,181,PG-13,Action,Anthony Russo and Joe Russo,Yes
+Jurassic Park,1993,91,91,127,PG-13,Adventure,Steven Spielberg,Yes
+The Sixth Sense,1999,86,90,107,PG-13,Drama,M. Night Shyamalan,No
+The Pianist,2002,95,95,150,R,Biography,Roman Polanski,No
+Back to the Future,1985,96,94,116,PG,Adventure,Robert Zemeckis,Yes
+The Terminator,1984,89,89,107,R,Action,James Cameron,Yes
+The Princess Bride,1987,97,94,98,PG,Adventure,Rob Reiner,No
+The Big Lebowski,1998,82,94,117,R,Comedy,Joel Coen and Ethan Coen,No
+The Breakfast Club,1985,88,92,97,R,Comedy,John Hughes,No
+The Shining,1980,85,93,146,R,Drama,Stanley Kubrick,No
+Apocalypse Now,1979,97,94,147,R,Drama,Francis Ford Coppola,No
+The Graduate,1967,91,89,106,PG,Drama,Mike Nichols,No
+Blade Runner,1982,90,89,117,R,Sci-Fi,Ridley Scott,Yes
+The Rocky Horror Picture Show,1975,80,85,100,R,Comedy,Jim Sharman,No
+Alien,1979,98,94,117,R,Horror,Ridley Scott,Yes
+E.T. the Extra-Terrestrial,1982,98,72,115,PG,Family,Steven Spielberg,No
+The Exorcist,1973,83,82,122,R,Horror,William Friedkin,No
+A Clockwork Orange,1971,89,93,136,R,Crime,Stanley Kubrick,No
+The Good the Bad and the Ugly,1966,97,97,178,R,Western,Sergio Leone,Yes
+2001: A Space Odyssey,1968,93,88,149,G,Adventure,Stanley Kubrick,No
+A Streetcar Named Desire,1951,98,89,122,PG,Drama,Elia Kazan,No
+Casablanca,1942,97,95,102,PG,Drama,Michael Curtiz,No
+Gone with the Wind,1939,92,89,238,G,Drama,Victor Fleming,No
+Citizen Kane,1941,99,90,119,PG,Drama,Orson Welles,No
+Psycho,1960,96,95,109,R,Horror,Alfred Hitchcock,Yes
+Taxi Driver,1976,96,93,113,R,Crime,Martin Scorsese,No
+Raging Bull,1980,95,90,129,R,Biography,Martin Scorsese,No
+One Flew Over the Cuckoo's Nest,1975,94,95,133,R,Drama,Milos Forman,No
+Annie Hall,1977,98,93,93,PG,Comedy,Woody Allen,No
+Die Hard,1988,94,94,132,R,Action,John McTiernan,Yes
+Braveheart,1995,78,85,178,R,Biography,Mel Gibson,No
+American Beauty,1999,88,89,122,R,Drama,Sam Mendes,No
+No Country for Old Men,2007,93,86,122,R,Crime,Joel Coen and Ethan Coen,No
+Slumdog Millionaire,2008,91,90,120,R,Drama,Danny Boyle,No
+The King's Speech,2010,95,90,118,R,Biography,Tom Hooper,No
+The Artist,2011,95,88,100,PG-13,Comedy,Michel Hazanavicius,No
+Argo,2012,96,90,120,R,Biography,Ben Affleck,No
+12 Years a Slave,2013,95,90,134,R,Biography,Steve McQueen,No
+Birdman or (The Unexpected Virtue of Ignorance),2014,91,76,119,R,Comedy,Alejandro González Iñárritu,No
+Spotlight,2015,97,93,129,R,Crime,Tom McCarthy,No
+Moonlight,2016,98,80,111,R,Drama,Barry Jenkins,No
+La La Land,2016,91,81,128,PG-13,Comedy,Damien Chazelle,No
+The Shape of Water,2017,92,73,123,R,Drama,Guillermo del Toro,No
+Parasite,2019,98,90,132,R,Comedy,Bong Joon-ho,No
+It's a Wonderful Life,1946,94,95,130,PG,Drama,Frank Capra,No
+Vertigo,1958,95,90,128,PG,Mystery,Alfred Hitchcock,No
+Sunset Boulevard,1950,98,95,110,PG,Drama,Billy Wilder,No
+Singin' in the Rain,1952,95,93,103,G,Comedy,Stanley Donen and Gene Kelly,No
+North by Northwest,1959,96,93,136,PG-13,Mystery,Alfred Hitchcock,No
+Lawrence of Arabia,1962,95,91,228,PG-13,Adventure,David Lean,No
+Some Like It Hot,1959,95,91,121,PG-13,Comedy,Billy Wilder,No
+The Maltese Falcon,1941,96,90,100,PG,Mystery,John Huston,No
+On the Waterfront,1954,95,92,108,PG,Drama,Elia Kazan,No
+The Bridge on the River Kwai,1957,95,92,161,PG,Adventure,David Lean,No
+The African Queen,1951,98,91,105,PG,Adventure,John Huston,No
+Ben-Hur,1959,86,86,212,G,Adventure,William Wyler,No
+West Side Story,1961,92,89,152,PG-13,Drama,Jerome Robbins and Robert Wise,No
+The Sound of Music,1965,84,90,174,G,Biography,Robert Wise,No
+The Sting,1973,94,92,129,PG,Comedy,George Roy Hill,No
+The French Connection,1971,96,87,104,R,Action,William Friedkin,Yes
+Patton,1970,91,89,172,PG,Biography,Franklin J. Schaffner,No
+Star Wars: Episode IV - A New Hope,1977,93,96,121,PG,Action,George Lucas,Yes
+The Deer Hunter,1978,92,89,182,R,Drama,Michael Cimino,No
+Kramer vs. Kramer,1979,88,84,105,PG,Drama,Robert Benton,No
+Ordinary People,1980,90,88,124,R,Drama,Robert Redford,No
+Terms of Endearment,1983,87,81,132,PG,Drama,James L. Brooks,No
+Amadeus,1984,93,93,160,PG,Biography,Milos Forman,No
+Out of Africa,1985,59,74,161,PG,Drama,Sydney Pollack,No
+Platoon,1986,88,91,120,R,Drama,Oliver Stone,No
+Rain Man,1988,89,90,133,R,Drama,Barry Levinson,No
+Driving Miss Daisy,1989,82,85,99,PG,Drama,Bruce Beresford,No
+Dances with Wolves,1990,82,90,181,PG-13,Adventure,Kevin Costner,No
+Unforgiven,1992,96,89,131,R,Western,Clint Eastwood,No
+The English Patient,1996,84,84,162,R,Drama,Anthony Minghella,No
+Titanic,1997,89,69,195,PG-13,Drama,James Cameron,No
+Shakespeare in Love,1998,93,82,123,R,Comedy,John Madden,No
+Chicago,2002,86,81,113,PG-13,Comedy,Rob Marshall,No
+Million Dollar Baby,2004,91,90,132,PG-13,Drama,Clint Eastwood,No
+Crash,2004,74,75,112,R,Crime,Paul Haggis,No
+Once Upon a Time in America,1984,86,85,229,R,Crime,Sergio Leone,No
+Blade Runner 2049,2017,87,81,164,R,Sci-Fi,Denis Villeneuve,Yes
+Mad Max: Fury Road,2015,97,86,120,R,Action,George Miller,No
+The Grand Budapest Hotel,2014,92,87,100,R,Comedy,Wes Anderson,No
+The Revenant,2015,78,79,156,R,Adventure,Alejandro González Iñárritu,No
+Arrival,2016,94,82,116,PG-13,Drama,Denis Villeneuve,No
+Whiplash,2014,93,94,106,R,Drama,Damien Chazelle,No
+Her,2013,94,83,126,R,Drama,Spike Jonze,No
+The Social Network,2010,96,86,120,PG-13,Drama,David Fincher,No
+The Departed,2006,90,91,151,R,Crime,Martin Scorsese,No
+The Green Mile,1999,78,94,189,R,Crime,Frank Darabont,No
+Amelie,2001,89,95,122,R,Comedy,Jean-Pierre Jeunet,No
+A Beautiful Mind,2001,74,90,135,PG-13,Biography,Ron Howard,No
+The Prestige,2006,76,92,130,PG-13,Drama,Christopher Nolan,No
+Drive,2011,93,79,100,R,Crime,Nicolas Winding Refn,No
+The Witch,2015,90,58,92,R,Horror,Robert Eggers,No
+Moonrise Kingdom,2012,93,85,94,PG-13,Comedy,Wes Anderson,No
+Inglourious Basterds,2009,89,88,153,R,Adventure,Quentin Tarantino,No
+Django Unchained,2012,87,89,165,R,Adventure,Quentin Tarantino,No
+The Florida Project,2017,96,79,111,R,Drama,Sean Baker,No
+In the Mood for Love,2000,90,90,98,PG,Drama,Wong Kar-wai,No
+Pan's Labyrinth,2006,95,91,118,R,Fantasy,Guillermo del Toro,No
+Children of Men,2006,92,84,109,R,Drama,Alfonso Cuarón,No
+The Godfather: Part II,1974,98,97,202,R,Crime,Francis Ford Coppola,Yes
+The Last Samurai,2003,66,83,154,R,Action,Edward Zwick,No
+Groundhog Day,1993,96,87,101,PG,Comedy,Harold Ramis,No
+Before Sunrise,1995,100,89,101,R,Drama,Richard Linklater,Yes
+Boyhood,2014,97,81,165,R,Drama,Richard Linklater,No
+12 Angry Men,1957,100,97,96,PG,Drama,Sidney Lumet,No
+Room,2015,93,86,118,R,Drama,Lenny Abrahamson,No
+The Truman Show,1998,95,89,103,PG,Drama,Peter Weir,No
+Eternal Sunshine of the Spotless Mind,2004,93,93,108,R,Drama,Michel Gondry,No
+The Pursuit of Happyness,2006,67,88,117,PG-13,Drama,Gabriele Muccino,No
+The Lion King,1994,93,93,88,G,Animation,Roger Allers and Rob Minkoff,Yes
+Into the Wild,2007,82,88,148,R,Adventure,Sean Penn,No
+Kill Bill: Volume 1,2003,85,80,111,R,Action,Quentin Tarantino,Yes
+Kill Bill: Volume 2,2004,84,84,137,R,Action,Quentin Tarantino,Yes
+Gone Girl,2014,87,88,149,R,Drama,David Fincher,No
+The Theory of Everything,2014,71,82,123,PG-13,Biography,James Marsh,No
+The Imitation Game,2014,90,89,114,PG-13,Biography,Morten Tyldum,No
+The Avengers,2012,92,91,143,PG-13,Action,Joss Whedon,Yes
+Avengers: Infinity War,2018,85,91,149,PG-13,Action,Anthony Russo and Joe Russo,Yes
+The Lord of the Rings: The Two Towers,2002,95,86,179,PG-13,Adventure,Peter Jackson,Yes
+The Lord of the Rings: The Fellowship of the Ring,2001,91,86,178,PG-13,Adventure,Peter Jackson,Yes
+Jaws,1975,98,90,124,PG-13,Horror,Steven Spielberg,No
+Click,2006,32,57,107,PG-13,Comedy,Frank Coraci,No
+Billy Madison,1995,46,79,89,PG-13,Comedy,Tamra Davis,No
+Happy Gilmore,1996,61,85,92,PG-13,Comedy,Dennis Dugan,No
+Just Go with It,2011,19,59,117,PG-13,Comedy,Dennis Dugan,No
+Rush Hour,1998,60,78,98,PG-13,Action,Brett Ratner,Yes
+Rush Hour 2,2001,52,78,90,PG-13,Action,Brett Ratner,Yes
+Rush Hour 3,2007,18,49,91,PG-13,Action,Brett Ratner,Yes
+Toy Story,1995,100,92,81,G,Animation,Brad Bird,No

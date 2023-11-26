@@ -1,0 +1,111 @@
+Monument_ID,Name,Location,Height,Year_Built,Visitors,Fee,Type,Material
+1,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+2,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+3,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+4,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+5,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+6,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+7,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+8,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+9,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+10,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+11,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+12,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+13,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+14,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+15,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+16,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+17,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+18,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+19,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+20,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+21,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+22,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+23,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+24,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+25,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+26,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+27,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+28,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+29,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+30,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+31,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+32,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+33,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+34,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+35,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+36,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+37,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+38,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+39,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+40,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+41,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+42,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+43,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+44,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+45,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+46,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+47,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+48,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+49,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+50,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+51,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+52,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+53,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+54,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+55,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+56,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+57,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+58,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+59,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+60,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+61,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+62,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+63,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+64,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+65,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+66,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+67,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+68,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+69,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+70,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+71,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+72,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+73,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+74,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+75,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+76,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+77,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+78,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+79,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+80,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+81,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+82,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+83,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+84,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+85,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+86,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+87,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+88,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+89,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+90,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+91,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+92,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+93,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+94,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+95,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+96,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+97,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+98,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+99,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+100,Gateway Arch,St. Louis,192,1965,2500000,8.0,Memorial,Stainless Steel
+101,Taj Mahal,Agra,73,1653,6000000,15.0,Mausoleum,Marble
+102,Great Wall of China,Beijing,8,221 BC,10000000,20.0,Wall,Stone
+103,Sphinx,Cairo,20,Approx. 2500 BC,3500000,10.0,Statue,Limestone
+104,Colosseum,Rome,48,80 AD,6000000,18.0,Amphitheater,Stone
+105,Statue of Liberty,New York,46.5,1886,4000000,12.0,National Symbol,Copper
+106,Eiffel Tower,Paris,324,1889,7000000,18.0,Icon,Steel
+107,Christ the Redeemer,Rio de Janeiro,30,1931,3000000,10.0,Religious,Concrete
+
+
+

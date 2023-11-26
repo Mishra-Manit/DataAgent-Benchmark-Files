@@ -1,0 +1,101 @@
+ID,Name,Category,Price,Quantity,Discount,Rating,Color
+1,Silver Sparkle Watch,Electronics,129.99,50,10,4.5,Silver
+2,Cozy Throw Blanket,Home & Kitchen,39.99,75,5,4.2,Gray
+3,Bouncing Ball Set,Toys & Games,19.99,100,20,4.0,Red
+4,Luxury Lipstick,Beauty,24.99,120,15,4.1,Pink
+5,Adventure Book Collection,Books,49.99,60,0,4.8,Blue
+6,Hiking Backpack,Sports & Outdoors,79.99,40,5,4.6,Green
+7,Fashionable Sunglasses,Fashion,59.99,90,10,4.3,Black
+8,Skincare Bundle,Health & Personal Care,59.99,110,0,4.7,White
+9,Wireless Bluetooth Earbuds,Electronics,89.99,50,10,4.5,Black
+10,Ceramic Non-Stick Cookware Set,Home & Kitchen,129.99,75,5,4.2,Blue
+11,Wooden Building Blocks Set,Toys & Games,24.99,100,20,4.0,Orange
+12,Nourishing Hair Oil,Beauty,14.99,120,15,4.1,Purple
+13,Classic Novels Collection,Books,29.99,60,0,4.8,Brown
+14,Resistance Band Set,Sports & Outdoors,19.99,40,5,4.6,Yellow
+15,Designer Handbag,Fashion,249.99,90,10,4.3,Red
+16,Essential Oil Diffuser,Health & Personal Care,39.99,110,0,4.7,Gray
+17,Smart Home Security Camera,Electronics,199.99,50,10,4.5,White
+18,Coffee Maker,Home & Kitchen,59.99,75,5,4.2,Black
+19,Colorful Building Blocks Set,Toys & Games,14.99,100,20,4.0,Multicolor
+20,Moisturizing Face Cream,Beauty,12.99,120,15,4.1,Pink
+21,Mystery Novel Collection,Books,19.99,60,0,4.8,Black
+22,Yoga Mat,Sports & Outdoors,24.99,40,5,4.6,Green
+23,Statement Necklace,Fashion,49.99,90,10,4.3,Silver
+24,Teeth Whitening Kit,Health & Personal Care,39.99,110,0,4.7,White
+25,Wireless Bluetooth Speaker,Electronics,79.99,50,10,4.5,Blue
+26,Kitchen Knife Set,Home & Kitchen,89.99,75,5,4.2,Red
+27,Board Game Set,Toys & Games,24.99,100,20,4.0,Yellow
+28,Moisturizing Body Lotion,Beauty,9.99,120,15,4.1,Purple
+29,Travel Guide Book Collection,Books,29.99,60,0,4.8,Gray
+30,Yoga Block Set,Sports & Outdoors,14.99,40,5,4.6,Pink
+31,Stylish Handbag,Fashion,199.99,90,10,4.3,Black
+32,Facial Cleansing Brush,Health & Personal Care,29.99,110,0,4.7,White
+33,Wireless Gaming Headset,Electronics,149.99,50,10,4.5,Black
+34,Stainless Steel Cookware Set,Home & Kitchen,149.99,75,5,4.2,Silver
+35,Puzzle Cube Set,Toys & Games,9.99,100,20,4.0,Multicolor
+36,Long-Lasting Lipstick,Beauty,12.99,120,15,4.1,Red
+37,Travel Memoir Collection,Books,19.99,60,0,4.8,Blue
+38,Yoga Mat Bag,Sports & Outdoors,14.99,40,5,4.6,Purple
+39,Designer Sunglasses,Fashion,79.99,90,10,4.3,Brown
+40,Tea Tree Essential Oil,Health & Personal Care,12.99,110,0,4.7,Green
+41,Wireless Gaming Mouse,Electronics,49.99,50,10,4.5,Black
+42,Electric Kettle,Home & Kitchen,34.99,75,5,4.2,White
+43,Jigsaw Puzzle Set,Toys & Games,14.99,100,20,4.0,Yellow
+44,Highlighter Palette,Beauty,9.99,120,15,4.1,Pink
+45,Fantasy Book Collection,Books,19.99,60,0,4.8,Green
+46,Camping Hammock,Sports & Outdoors,39.99,40,5,4.6,Blue
+47,Statement Earrings,Fashion,29.99,90,10,4.3,Gold
+48,Teeth Whitening Toothpaste,Health & Personal Care,6.99,110,0,4.7,White
+49,Bluetooth Wireless Earphones,Electronics,69.99,50,10,4.5,Red
+50,Knife Block Set,Home & Kitchen,89.99,75,5,4.2,Black
+51,Art Supplies Set,Toys & Games,19.99,100,20,4.0,Multicolor
+52,Nail Polish Set,Beauty,14.99,120,15,4.1,Purple
+53,Classic Literature Collection,Books,24.99,60,0,4.8,Brown
+54,Resistance Band Set,Sports & Outdoors,19.99,40,5,4.6,Green
+55,Stylish Hat,Fashion,24.99,90,10,4.3,Black
+56,Vitamin C Serum,Health & Personal Care,16.99,110,0,4.7,White
+57,Smartphone Stand,Electronics,14.99,50,10,4.5,Silver
+58,Stainless Steel Water Bottle,Home & Kitchen,19.99,75,5,4.2,Blue
+59,Wooden Train Set,Toys & Games,24.99,100,20,4.0,Red
+60,Liquid Eyeliner,Beauty,7.99,120,15,4.1,Black
+61,Classic Poetry Collection,Books,14.99,60,0,4.8,Gray
+62,Resistance Band Set,Sports & Outdoors,16.99,40,5,4.6,Yellow
+63,Chic Handbag,Fashion,89.99,90,10,4.3,Pink
+64,Teeth Whitening Strips,Health & Personal Care,19.99,110,0,4.7,White
+65,Wireless Bluetooth Headphones,Electronics,59.99,50,10,4.5,Black
+66,Cookware Set,Home & Kitchen,129.99,75,5,4.2,Red
+67,Wooden Puzzle Set,Toys & Games,14.99,100,20,4.0,Green
+68,Moisturizing Body Butter,Beauty,12.99,120,15,4.1,Purple
+69,Art Instruction Book,Books,9.99,60,0,4.8,Brown
+70,Yoga Strap,Sports & Outdoors,7.99,40,5,4.6,Blue
+71,Statement Bracelet,Fashion,39.99,90,10,4.3,Gold
+72,Deep Cleansing Face Mask,Health & Personal Care,14.99,110,0,4.7,Gray
+73,Wireless Mouse,Electronics,24.99,50,10,4.5,Silver
+74,Stainless Steel Cutlery Set,Home & Kitchen,39.99,75,5,4.2,Black
+75,Coloring Book Set,Toys & Games,9.99,100,20,4.0,Multicolor
+76,Moisturizing Lip Balm,Beauty,4.99,120,15,4.1,Pink
+77,Travel Guidebook,Books,12.99,60,0,4.8,Blue
+78,Yoga Block Set,Sports & Outdoors,14.99,40,5,4.6,Purple
+79,Designer Scarf,Fashion,59.99,90,10,4.3,Red
+80,Deep Cleansing Facial Cleanser,Health & Personal Care,9.99,110,0,4.7,White
+81,Smart Fitness Tracker,Electronics,89.99,50,10,4.5,Black
+82,Stainless Steel Mixing Bowls,Home & Kitchen,29.99,75,5,4.2,Blue
+83,Puzzle Game Set,Toys & Games,16.99,100,20,4.0,Yellow
+84,Long-Lasting Liquid Eyeshadow,Beauty,8.99,120,15,4.1,Silver
+85,Classic Fiction Collection,Books,19.99,60,0,4.8,Brown
+86,Resistance Band Set,Sports & Outdoors,14.99,40,5,4.6,Green
+87,Stylish Belt,Fashion,19.99,90,10,4.3,Black
+88,Natural Deodorant,Health & Personal Care,9.99,110,0,4.7,White
+89,Bluetooth Wireless Speaker,Electronics,49.99,50,10,4.5,Red
+90,Non-Stick Bakeware Set,Home & Kitchen,39.99,75,5,4.2,Black
+91,Jigsaw Puzzle Set,Toys & Games,14.99,100,20,4.0,Orange
+92,Moisturizing Lip Gloss,Beauty,6.99,120,15,4.1,Pink
+93,Travel Journal,Books,9.99,60,0,4.8,Green
+94,Yoga Mat Strap,Sports & Outdoors,4.99,40,5,4.6,Blue
+95,Statement Ring,Fashion,19.99,90,10,4.3,Silver
+96,Essential Oil Diffuser,Health & Personal Care,24.99,110,0,4.7,Gray
+97,Wireless Keyboard,Electronics,29.99,50,10,4.5,Black
+98,Stainless Steel Cutlery Set,Home & Kitchen,34.99,75,5,4.2,Silver
+99,Card Game Set,Toys & Games,9.99,100,20,4.0,Red
+100,Moisturizing Hand Cream,Beauty,7.99,120,15,4.1,Purple

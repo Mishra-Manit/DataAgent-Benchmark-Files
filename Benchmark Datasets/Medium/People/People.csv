@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,City,Height,Weight,Salary
+1,John,25,Male,New York,180,75,50000
+2,Alice,32,Female,Los Angeles,165,55,60000
+3,Michael,41,Male,Chicago,175,85,75000
+4,Sarah,29,Female,San Francisco,160,60,55000
+5,David,36,Male,Miami,170,70,65000
+6,Emily,28,Female,Seattle,163,58,52000
+7,James,33,Male,Boston,175,80,70000
+8,Samantha,31,Female,Dallas,168,63,57000
+9,Ryan,27,Male,Houston,182,78,63000
+10,Olivia,34,Female,Denver,170,65,58000
+11,,39,Male,Phoenix,,92,80000
+12,Emma,26,Female,Atlanta,160,,52000
+13,Christopher,30,Male,New York,175,75,
+14,Hannah,35,Female,,168,62,55000
+15,Daniel,23,,Chicago,178,80,65000
+16,Grace,,Female,San Francisco,163,57,53000
+17,Andrew,22,Male,Miami,185,82,62000
+18,Ava,37,Female,,155,50,50000
+19,William,24,,Boston,183,78,68000
+20,Sophia,38,Female,Dallas,170,64,57000
+21,Joseph,29,Male,Houston,175,72,61000
+22,Abigail,27,Female,,165,58,54000
+23,Benjamin,31,Male,,180,85,72000
+24,Mia,26,Female,Atlanta,155,50,52000
+25,Alexander,33,Male,New York,188,88,78000
+26,Charlotte,30,Female,Los Angeles,163,57,55000
+27,Jackson,25,Male,Chicago,175,75,60000
+28,Ella,32,Female,San Francisco,168,63,57000
+29,Nicholas,38,Male,Miami,180,82,68000
+30,Avery,37,Female,Seattle,165,61,56000
+31,Ethan,36,Male,Boston,172,76,67000
+32,Madison,24,Female,Dallas,160,52,51000
+33,David,40,Male,Houston,185,88,75000
+34,Harper,23,Female,Denver,163,55,53000
+35,Liam,35,Male,Phoenix,175,80,67000
+36,Lily,28,Female,Atlanta,158,53,51000
+37,Samuel,34,Male,New York,180,77,68000
+38,Sofia,22,Female,Los Angeles,165,58,54000
+39,Daniel,39,Male,Chicago,175,79,73000
+40,Victoria,31,Female,San Francisco,168,64,59000
+41,Aiden,27,Male,Miami,182,84,67000
+42,Chloe,26,Female,Seattle,160,55,52000
+43,Matthew,33,Male,Boston,175,76,65000
+44,Evelyn,30,Female,Dallas,163,59,54000
+45,Logan,25,Male,Houston,175,75,60000
+46,Elizabeth,32,Female,Denver,168,62,57000
+47,Anthony,29,Male,Phoenix,175,72,61000
+48,Grace,38,Female,Atlanta,160,54,52000
+49,Christopher,24,Male,New York,178,81,67000
+50,Emily,37,Female,Los Angeles,165,60,56000
+51,Michael,39,Male,Chicago,175,82,72000
+52,Avery,33,Female,San Francisco,170,67,59000
+53,Andrew,23,Male,Miami,185,88,76000
+54,Samantha,35,Female,Seattle,163,58,55000
+55,Nicholas,40,Male,Dallas,180,81,71000
+56,Madison,22,Female,Houston,165,59,53000
+57,William,26,Male,Phoenix,185,84,68000
+58,Olivia,30,Female,Atlanta,160,57,52000
+59,Aiden,27,Male,New York,182,79,65000
+60,Sofia,28,Female,Los Angeles,165,58,54000
+61,Alexander,31,Male,Chicago,175,77,69000
+62,Emma,25,Female,San Francisco,160,56,53000
+63,David,32,Male,Miami,175,74,61000
+64,Charlotte,24,Female,Seattle,165,59,54000
+65,James,39,Male,Boston,175,81,73000
+66,Lily,35,Female,San Francisco,158,52,51000
+67,Benjamin,22,Male,Phoenix,180,83,71000
+68,Hannah,37,Female,Atlanta,163,60,57000
+69,Daniel,26,Male,Houston,170,75,63000
+70,Sophia,33,Female,Dallas,165,61,56000
+71,Logan,30,Male,New York,175,76,66000
+72,Ella,38,Female,Los Angeles,168,63,59000
+73,Joseph,27,Male,Chicago,175,73,63000
+74,Harper,31,Female,San Francisco,163,59,55000
+75,Matthew,29,Male,Miami,175,78,68000
+76,Ava,40,Female,Seattle,160,55,52000
+77,Joshua,23,Male,Boston,185,85,76000
+78,Abigail,34,Female,Dallas,168,62,57000
+79,Christopher,24,Male,New York,178,80,68000
+80,Mia,36,Female,Los Angeles,165,59,55000
+81,Samuel,25,Male,Chicago,175,74,61000
+82,Evelyn,32,Female,San Francisco,163,58,54000
+83,Nicholas,26,Male,Miami,180,82,71000
+84,Avery,30,Female,Seattle,165,60,56000
+85,William,39,Male,Boston,175,81,73000
+86,Emily,33,Female,,165,59,54000
+87,David,22,Male,Houston,175,75,60000
+88,Chloe,28,Female,Denver,160,54,52000
+89,Daniel,27,Male,San Francisco,175,72,63000
+90,Sofia,31,Female,Seattle,165,59,55000
+91,Alexander,29,Male,Boston,182,78,67000
+92,Samantha,37,Female,Dallas,163,59,55000
+93,Logan,24,Male,Phoenix,175,75,60000
+94,Olivia,35,Female,Atlanta,168,62,57000
+95,Michael,40,Male,New York,180,80,70000
+96,Emma,22,Female,Los Angeles,160,55,52000
+97,Benjamin,38,Male,Chicago,175,82,72000
+98,Lily,26,Female,San Francisco,158,53,51000
+99,James,30,Male,Miami,175,75,60000
+100,Hannah,33,Female,Seattle,165,59,55000

@@ -1,0 +1,51 @@
+ID,Party,Age,Education,Income,Approval Rating,Election Result
+1,Republican,45,High School,50000,65,Win
+2,Democrat,38,College,60000,72,Loss
+3,Independent,52,High School,,50,Loss
+4,Democrat,29,Some College,40000,80,Win
+5,Republican,55,College,75000,,Loss
+6,Independent,34,Some College,55000,60,Win
+7,Republican,42,College,70000,68,Loss
+8,Democrat,,High School,30000,55,Win
+9,Independent,47,Some College,45000,70,Loss
+10,Democrat,39,College,,62,Win
+11,Republican,41,High School,52000,78,Loss
+12,Independent,48,College,60000,48,Win
+13,Democrat,36,Some College,42000,,Win
+14,Republican,59,College,80000,75,Loss
+15,Independent,30,High School,38000,58,Loss
+16,Democrat,44,College,,54,Win
+17,Republican,50,Some College,65000,71,Win
+18,Independent,37,High School,45000,,Loss
+19,Democrat,33,College,55000,63,Win
+20,Republican,46,Some College,,69,Loss
+21,Independent,51,High School,48000,47,Win
+22,Democrat,31,College,40000,78,Loss
+23,Republican,56,Some College,70000,64,Win
+24,Independent,40,High School,36000,55,Loss
+25,Democrat,47,College,,52,Win
+26,Republican,53,Some College,78000,68,Loss
+27,Independent,29,High School,32000,50,Win
+28,Democrat,39,College,60000,,Win
+29,Republican,44,Some College,72000,73,Loss
+30,Independent,48,High School,40000,45,Win
+31,Democrat,36,College,54000,60,Loss
+32,Republican,51,Some College,,70,Win
+33,Independent,31,High School,38000,52,Loss
+34,Democrat,55,College,65000,74,Win
+35,Republican,38,Some College,70000,58,Win
+36,Independent,46,High School,,48,Loss
+37,Democrat,54,College,80000,65,Win
+38,Republican,32,Some College,52000,70,Win
+39,Independent,50,High School,46000,,Loss
+40,Democrat,42,College,60000,57,Win
+41,Republican,29,Some College,75000,72,Loss
+42,Independent,49,High School,40000,50,Loss
+43,Democrat,37,College,,60,Win
+44,Republican,57,Some College,78000,68,Loss
+45,Independent,31,High School,35000,52,Win
+46,Democrat,41,College,58000,,Win
+47,Republican,54,Some College,72000,73,Loss
+48,Independent,47,High School,38000,45,Win
+49,Democrat,33,College,55000,60,Loss
+50,Republican,51,Some College,80000,70,Win

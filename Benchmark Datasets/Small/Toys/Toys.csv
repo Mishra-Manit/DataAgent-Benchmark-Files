@@ -1,0 +1,51 @@
+ID,Name,Category,Price,Age,Rating,InStock,Material
+1,Toy Car,Vehicle,12.99,3-6,4.5,Yes,Plastic
+2,Stuffed Bear,Plush,18.49,1-3,4.2,Yes,Plush
+3,Lego Set,Construction,24.99,6-12,4.8,Yes,Plastic
+4,Board Game,Game,15.75,8-12,4.0,Yes,Cardboard
+5,Doll,Play,9.99,3-6,3.9,Yes,Plastic
+6,Remote Control Helicopter,Vehicle,32.99,8-12,4.2,Yes,Plastic
+7,Puzzle,Game,8.99,6-12,4.1,Yes,Cardboard
+8,Action Figure,Play,7.49,3-6,3.7,Yes,Plastic
+9,Art Supplies,Creative,14.99,6-12,4.6,Yes,Various
+10,Building Blocks,Construction,19.99,1-3,4.5,Yes,Plastic
+11,Robot Toy,Electronic,,8-12,4.3,Yes,Metal
+12,Soft Toy,Plush,11.49,1-3,,Yes,Plush
+13,Coloring Book,Creative,5.99,,4.0,Yes,Paper
+14,Toy Train,Vehicle,22.99,3-6,3.8,Yes,Plastic
+15,Word Game,Game,10.25,6-12,4.2,Yes,Cardboard
+16,Puppet,Play,6.99,,3.5,Yes,Fabric
+17,Jigsaw Puzzle,Game,,8-12,4.7,Yes,Cardboard
+18,Music Instrument,Creative,28.99,3-6,,Yes,Plastic
+19,Play Dough,Play,3.99,1-3,4.0,Yes,Plastic
+20,Model Kit,Construction,16.75,6-12,3.9,Yes,Plastic
+21,Toy Plane,Vehicle,19.99,3-6,4.1,Yes,Plastic
+22,Outdoor Game,Game,,8-12,4.5,Yes,Various
+23,Dress-Up Set,Play,14.49,1-3,4.2,Yes,Fabric
+24,Art Easel,Creative,32.99,6-12,4.8,Yes,Wood
+25,Magnetic Blocks,Construction,27.99,,4.0,Yes,Plastic
+26,Plush Dinosaur,Plush,8.99,1-3,3.6,Yes,Plush
+27,Trivia Game,Game,9.75,8-12,,Yes,Cardboard
+28,Kitchen Playset,Play,,3-6,4.3,Yes,Plastic
+29,Origami Kit,Creative,12.99,6-12,4.6,Yes,Paper
+30,Magic Set,Construction,23.49,8-12,,Yes,Various
+31,Puppet Theater,Play,17.99,3-6,4.2,Yes,Wood
+32,Toy Robot,Electronic,36.99,6-12,4.8,Yes,Plastic
+33,Toy Telescope,Construction,,8-12,3.7,Yes,Plastic
+34,Play Jewelry,Play,6.25,3-6,3.9,Yes,Various
+35,Clay Kit,Creative,9.99,,4.5,Yes,Clay
+36,Card Game,Game,4.99,6-12,3.2,Yes,Cardboard
+37,Building Set,Construction,11.49,3-6,4.0,Yes,Plastic
+38,Toy Boat,Vehicle,,1-3,4.1,Yes,Plastic
+39,Art Apron,Creative,5.99,6-12,3.8,Yes,Fabric
+40,Puzzle Mat,Game,7.75,,4.2,Yes,Various
+41,Puppet Set,Play,8.49,3-6,,Yes,Fabric
+42,Wooden Blocks,Construction,13.99,1-3,4.0,Yes,Wood
+43,Science Kit,Electronic,19.99,6-12,4.3,Yes,Plastic
+44,Model Car,Vehicle,22.99,,3.9,Yes,Plastic
+45,Outdoor Set,Play,14.49,3-6,4.1,Yes,Various
+46,Chalk Set,Creative,,8-12,4.2,Yes,Chalk
+47,Toy Truck,Vehicle,6.99,1-3,,Yes,Plastic
+48,Art Paints,Creative,8.75,6-12,3.7,Yes,Paint
+49,Play Tent,Play,19.99,3-6,3.5,Yes,Fabric
+50,Construction Set,Construction,28.49,6-12,4.6,Yes,Various
